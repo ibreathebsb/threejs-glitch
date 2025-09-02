@@ -2,4 +2,5 @@
 
 glitch effect in threejs
 
-[Demo](./public/glitch.mp4)
+
+![Demo](./public/demo.png)
