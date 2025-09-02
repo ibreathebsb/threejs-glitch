@@ -91,7 +91,6 @@ function handleResize() {
 
   renderer.setSize(width, height);
   renderer.setPixelRatio(window.devicePixelRatio);
-  debugger
   glitchPass.uniforms.uResolution.value.set(width, height);
   composer.setSize(width, height);
 
